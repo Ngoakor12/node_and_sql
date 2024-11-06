@@ -1,0 +1,19 @@
+{
+  "name": "node_and_sql_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "jasmine": "^5.4.0"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
